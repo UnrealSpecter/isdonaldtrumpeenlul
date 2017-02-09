@@ -30,7 +30,7 @@
                 color: white;
                 text-align: center;
                 width: 100vw;
-                font-size: 5vw;
+                font-size: 25px;
                 font-style: italic;
                 line-height: 10vh;
             }
