@@ -26,12 +26,13 @@
                 position: fixed;
                 bottom: 0;
                 left: 0;
-                height: 5vh;
+                height: 10vh;
                 color: white;
                 text-align: center;
                 width: 100vw;
-                font-size: 2.5vw;
+                font-size: 5vw;
                 font-style: italic;
+                line-height: 10vh;
             }
 
             a {
