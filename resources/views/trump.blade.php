@@ -21,7 +21,7 @@
                 color: white;
                 padding: 0;
                 margin: 0;
-                font-size: 70vh;
+                font-size: 25vw;
             }
         </style>
     </head>
