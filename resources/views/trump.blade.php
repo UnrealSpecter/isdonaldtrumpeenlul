@@ -62,7 +62,7 @@
                 <h1 class="vertical-center">Ja</h1>
             </div>
             <div class="footer">
-                <a href="https://www.facebook.com/dhevakart/">by Dhevak *clicky*</a>
+                <a href="https://www.facebook.com/dhevakart/">by Dhèvak *clicky*</a>
             </div>
         </div>
     </body>
