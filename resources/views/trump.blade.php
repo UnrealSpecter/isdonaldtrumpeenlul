@@ -9,13 +9,13 @@
         <style type="text/css">
             .vertical-center {
                 position: absolute;
-                top: 0; 
-                left: 0; 
-                height: 100vh; 
-                width: 100vw; 
-                line-height: 100vh; 
-                text-align: center; 
-                background: #F37E21; 
+                top: 0;
+                left: 0;
+                height: 100vh;
+                width: 100vw;
+                line-height: 100vh;
+                text-align: center;
+                background: #F37E21;
                 color: white;
                 padding: 0;
                 margin: 0;
@@ -49,10 +49,12 @@
         <script>
         (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
         (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
         })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-        ga('create', 'UA-90310031-1', 'auto');
+
+        ga('create', 'UA-90310031-3', 'auto');
         ga('send', 'pageview');
+
         </script>
         <!-- End Google Analytics -->
     </head>
@@ -67,4 +69,3 @@
         </div>
     </body>
 </html>
-
